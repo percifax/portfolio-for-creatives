@@ -200,6 +200,33 @@ p {
   margin-bottom: 1rem;
 }
 
+/* added by me from google fonts*/
+
+.vollkorn-sc-regular {
+  font-family: "Vollkorn SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.vollkorn-sc-semibold {
+  font-family: "Vollkorn SC", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.vollkorn-sc-bold {
+  font-family: "Vollkorn SC", serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.vollkorn-sc-black {
+  font-family: "Vollkorn SC", serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+
 em {
   font-style: italic;
 }
