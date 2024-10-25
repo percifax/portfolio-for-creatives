@@ -780,7 +780,9 @@ a:active {
   }
 
   .logo:hover {
-    width: 6rem;
+    width: 5.08rem;
+    transition: width 0.5s, height 0.5s;
+    transition-timing-function: ease-in-out;
     fill: rgb(255, 180, 180);
     /* TODO: Adjust the width of the logo on large devices here. */
   }
