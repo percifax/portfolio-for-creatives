@@ -673,6 +673,8 @@ a:active {
 .play-page {
   display: grid;
   place-items: center;
+  background-image: url("TheGarden.jpg");|
+  background-position: center;
 }
 
 .play-page-inner-container {
@@ -682,6 +684,12 @@ a:active {
 .play-page-title {
   color: var(--accent-color);
 }
+
+
+
+
+
+
 
 /*
 
