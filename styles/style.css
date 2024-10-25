@@ -379,7 +379,7 @@ a:active {
 }
 
 .logo {
-  width: 3rem;
+  width: 10rem;
   /* TODO: Adjust the width of the logo on mobile devices here. */
 }
 
@@ -774,13 +774,13 @@ a:active {
   }
 
   .logo {
-    width: 1rem;
+    width: 5rem;
     fill: red;
     /* TODO: Adjust the width of the logo on large devices here. */
   }
 
   .logo:hover {
-    width: 5rem;
+    width: 6rem;
     fill: rgb(255, 180, 180);
     /* TODO: Adjust the width of the logo on large devices here. */
   }
