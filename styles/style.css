@@ -673,7 +673,7 @@ a:active {
 .play-page {
   display: grid;
   place-items: center;
-  background-image: url("TheGarden.jpg");|
+  background-image: url("assets/thegarden/the-garden-background-image-ap-portfolio.jpg");
   background-position: center;
 }
 
