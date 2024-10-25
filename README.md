@@ -1,13 +1,4 @@
 # portfolio-for-creatives
-## A simple and modern portfolio template for creatives
- 
-A simple but highly customizable responsive template for graphic designers, illustrators, interactive designers, photographers, art directors, and more!
-
-**Set Up Instructions:**
-
-1. Sign up for a free account at [github.com](https://github.com/)
-2. Download and install [desktop.github.com](https://desktop.github.com/)
-3. Download and install [code.visualstudio.com](https://code.visualstudio.com/)
 
 **Cloning a repository, editing code, pushing and creating a fork, connecting to Netlify:**
 
@@ -26,10 +17,6 @@ A simple but highly customizable responsive template for graphic designers, illu
 - Change the social media link addresses.
 - Replace the demo words in the footer with your own bio.
 - Replace the demo words on a project page with your own project title and project description.
-
-**More advanced changes:**
-
-- A solid working knowledge of HTML and CSS is required for more advanced changes. JavaScript knowledge is also helpful for custom effects. A great place to start is https://www.codecademy.com/catalog/language/html-css.
 
 **CSS Structure:**
 
