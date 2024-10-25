@@ -11,6 +11,9 @@
 -6
 - [ ]  Add Descriptions to Project Pages
 - [ ]  Add The Garden
+add sparkling mouse https://codepen.io/andrewukkop/pen/QWeaNPG
+add gifs 
+add spotify https://developer.spotify.com/documentation/embeds
 - [ ]  Add Intro Logo Gif
 - [ ]  Add Intro Background Ask james about random image on refresh 
 - [:D]  Add Fonts
