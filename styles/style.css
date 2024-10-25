@@ -17,7 +17,7 @@
 
 /* my fonts */
 @import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC:wght@400;600;700;900&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
 
 /*
 
@@ -84,9 +84,9 @@ html {
 /* TODO: Adjust the variables below, create new variables as desired, and delete the variables that you do not want to use. */
 
 :root {
-  --body-typeface: "Inter", sans-serif;
-  --heading-typeface: "Eczar", serif;
-  --project-title-typeface: "Eczar", serif;
+  --body-typeface: "Vollkorn", serif;
+  --heading-typeface: "Vollkorn SC", serif;
+  --project-title-typeface:"Vollkorn SC", serif;
   --background-color: #1f1f1f;
   --background-color-about: #1f1f1f;
   --background-color: #1f1f1f;
@@ -159,7 +159,8 @@ svg {
 
 h1 {
   font-size: 2rem;
-  font-family: var(--heading-typeface);
+  font-famiy:;
+  font-family: var(--body-typeface);
   margin-bottom: 1rem;
   color: var(--h1-color);
 }
@@ -198,8 +199,10 @@ h6 {
 
 p {
   font-size: 1rem;
+  font-family:var(--heading-typeface) ;
   line-height: 1.3;
   margin-bottom: 1rem;
+
 }
 
 /* added by me from google fonts*/
@@ -227,7 +230,18 @@ p {
   font-weight: 900;
   font-style: normal;
 }
-
+.vollkorn-regular {
+  font-family: "Vollkorn", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+.vollkorn-bold {
+  font-family: "Vollkorn", serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+}
 
 em {
   font-style: italic;
@@ -469,8 +483,8 @@ a:active {
   grid-template-columns: 1fr;
   grid-gap: 3rem;
   background: var(--background-color-about);
-  padding: 1rem;
-  flex: 1;
+  padding: 2rem;
+  flex: 2;
 }
 
 .about-item-1 {
