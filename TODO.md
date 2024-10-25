@@ -3,8 +3,8 @@
  
  - Fix iMages all width 1920
 -- [ ]  Add Images to Project Pages
-- 1
-- 2
+- [:D]1
+- [:D]2
 -3
 -4
 -5
