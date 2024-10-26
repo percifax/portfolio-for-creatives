@@ -699,7 +699,6 @@ a:active {
 .play-page {
   display: grid;
   place-items: center;
-  background-image: url("the-garden-background-image-ap-portfolio.jpg");
   background-position: center;
 }
 
@@ -715,7 +714,7 @@ a:active {
   display: grid;
   place-items: center;
   min-height: 10vh;
-  width: 100%;
+  max-width: 100%;
 }
 
 /*
