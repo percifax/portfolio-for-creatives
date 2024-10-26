@@ -711,6 +711,13 @@ a:active {
   color: var(--project-sidebar-background-color);
 }
 
+.the-garden-spotify{
+  display: grid;
+  place-items: center;
+  min-height: 10vh;
+  width: 100%;
+}
+
 /*
 
 ███████ ██   ██ ███████ ████████  ██████ ██   ██ ██████   ██████   ██████  ██   ██ 
