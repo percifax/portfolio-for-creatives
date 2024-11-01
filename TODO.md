@@ -1,22 +1,20 @@
 # portfolio-for-creatives
+
 ## Andys Coding To Do list
- 
- - Fix iMages all width 1920
--- [ ]  Add Images to Project Pages
-- [:D]1
-- [:D]2
--3 
--4
--5
--6
-- [ ]  Add Descriptions to Project Pages
-- [ ]  Add The Garden
+
+- Fix iMages all width 1920px
+
 add sparkling mouse https://codepen.io/andrewukkop/pen/QWeaNPG
-add gifs 
+movable gifs -
 add spotify https://developer.spotify.com/documentation/embeds
-- [ ]  Add Intro Logo Gif
-- [ ]  Add Intro Background Ask james about random image on refresh 
-- [:D]  Add Fonts
-- [:D]  Add Bio
-- [ ]  Add SVG Transparent gif in B&W
-- 
+
+Nov 1
+
+Favicon
+Change Logo GIfs
+CHange Index Gif
+Change Header to
+Change Index BG Images
+CHange 404 - Make door bigger and In the Middle
+Change Garden, spotify is at the top extended, Gifs Movable, Sparkling Mouse
+Change About Page to be good looking

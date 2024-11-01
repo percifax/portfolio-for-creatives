@@ -16,8 +16,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 /* my fonts */
-@import url('https://fonts.googleapis.com/css2?family=Vollkorn+SC:wght@400;600;700;900&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Vollkorn+SC:wght@400;600;700;900&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap");
 
 /*
 
@@ -86,11 +86,11 @@ html {
 :root {
   --body-typeface: "Vollkorn", serif;
   --heading-typeface: "Vollkorn SC", serif;
-  --project-title-typeface:"Vollkorn SC", serif;
+  --project-title-typeface: "Vollkorn SC", serif;
   --background-color: #1f1f1f;
   --background-color-about: #1f1f1f;
   --background-color: #263e32;
-  --background-color-footer:#1f1f1f;
+  --background-color-footer: #1f1f1f;
   --alt-background-color: #000000;
   --background-color-holding-page: rgba(0, 0, 0, 0.6);
   --h1-color: #ffffff;
@@ -205,7 +205,6 @@ p {
   font-family: var(--body-typeface);
   line-height: 1.3;
   margin-bottom: 1rem;
-
 }
 
 /* added by me from google fonts*/
@@ -340,8 +339,14 @@ a:active {
 
 .social-item {
   line-height: 1.3;
+  width: 20rem;
+  background: red;
 }
 
+.fa-brands {
+  font-size: 5rem;
+  color: yellow;
+}
 .list-item {
   line-height: 1.3;
   list-style-type: disc;
@@ -576,7 +581,7 @@ a:active {
   display: flex;
   flex-direction: column;
   color: var(--project-sidebar-text-color);
-  background:00FFFFFF;
+  background: 00FFFFFF;
 }
 
 .project-navigation {
@@ -621,7 +626,6 @@ a:active {
 .project-details {
   width: 100%;
   padding: 1rem;
-  
 }
 
 /* 
@@ -643,7 +647,12 @@ a:active {
   width: 100%;
   min-height: 100vh;
   /* TODO: Delete the following if you do not want a grainy gradient background on index.html. Be careful not to delete the closing } */
-  background: linear-gradient(0deg, rgba(0, 0, 0, 1), var(--background-color-holding-page)), url(/assets/temp/noise.svg);
+  background: linear-gradient(
+      0deg,
+      rgba(0, 0, 0, 1),
+      var(--background-color-holding-page)
+    ),
+    url(/assets/temp/noise.svg);
   /* For more on grainy gradients see https://grainy-gradients.vercel.app/ */
 }
 
@@ -679,7 +688,7 @@ a:active {
 ███████ ██   ██ ██   ██  ██████  ██   ██ 
 */
 
-.the-garden-door{
+.the-garden-door {
   margin-bottom: 1rem;
   justify-content: center;
   width: 50%;
@@ -718,7 +727,6 @@ a:active {
   cursor: move;
   z-index: 10;
   background-color: #ffffff00;
-
 }
 
 .play-page-inner-container {
@@ -729,7 +737,7 @@ a:active {
   color: var(--project-sidebar-background-color);
 }
 
-.the-garden-spotify{
+.the-garden-spotify {
   display: grid;
   place-items: center;
   min-height: 10vh;
