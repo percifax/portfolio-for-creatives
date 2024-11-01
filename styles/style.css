@@ -87,11 +87,9 @@ html {
   --body-typeface: "Vollkorn", serif;
   --heading-typeface: "Vollkorn SC", serif;
   --project-title-typeface: "Vollkorn SC", serif;
-  --background-color: #1f1f1f;
   --background-color-about: #1f1f1f;
-  --background-color: #263e32;
   --background-color-footer: #1f1f1f;
-  --alt-background-color: #000000;
+  --background-color: #161616;
   --background-color-holding-page: rgba(0, 0, 0, 0.6);
   --h1-color: #ffffff;
   --h2-color: #ffffff;
@@ -124,7 +122,7 @@ html {
 body {
   font-family: var(--body-typeface);
   color: var(--primary-text-color);
-  background: var(--background-color);
+
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -695,36 +693,14 @@ a:active {
   margin: auto;
 }
 
-██████
-  ██
-  █████
-  ██
-  ██
-  ██
-  ██
-  ██
-  ██
-  ██
-  ██
-  ██
-  ██████
-  ██
-  ███████
-  ████
-  ██
-  ██
-  ██
-  ██
-  ██
-  the
-  garden
-  ██
-  ███████
-  ██
-  ██
-  ██
-  */
-  .play-page {
+/*Play Page - The garden*/
+
+.play-page-header {
+  flex-direction: column;
+  place-items: inherit;
+}
+
+.play-page {
   display: grid;
   place-items: center;
   background-position: center;
