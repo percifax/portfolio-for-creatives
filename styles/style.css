@@ -681,7 +681,9 @@ a:active {
 
 .the-garden-door{
   margin-bottom: 1rem;
+  justify-content: center;
   width: 50%;
+  max-width: max-content;
   margin: auto;
 }
 /* TODO: Customize your 404 Error Page */
