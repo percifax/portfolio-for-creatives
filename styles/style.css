@@ -603,6 +603,7 @@ a:active {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 0.2rem;
 }
 
 .text-section {
@@ -611,7 +612,7 @@ a:active {
 
 .project-text {
   width: 100%;
-  font-size: 3.25rem;
+  font-size: 4.25rem;
   padding: 3rem;
 }
 
