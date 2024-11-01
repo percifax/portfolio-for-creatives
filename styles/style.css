@@ -576,7 +576,7 @@ a:active {
   display: flex;
   flex-direction: column;
   color: var(--project-sidebar-text-color);
-  background: var(--project-sidebar-background-color);
+  background:00FFFFFF;
 }
 
 .project-navigation {
