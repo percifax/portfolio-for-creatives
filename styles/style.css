@@ -694,23 +694,41 @@ a:active {
   max-width: max-content;
   margin: auto;
 }
-/* TODO: Customize your 404 Error Page */
 
-/* The best 404 pages have become an art in themselves. Your 404 error page is an opportunity to make a memorable impression on your visitors when they don’t land exactly where they hoped. */
-
-/*
-
-██████  ██       █████  ██    ██ 
-██   ██ ██      ██   ██  ██  ██  
-██████  ██      ███████   ████   
-██      ██      ██   ██    ██    the garden
-██      ███████ ██   ██    ██    
-*/
-
-.play-page {
+██████
+  ██
+  █████
+  ██
+  ██
+  ██
+  ██
+  ██
+  ██
+  ██
+  ██
+  ██
+  ██████
+  ██
+  ███████
+  ████
+  ██
+  ██
+  ██
+  ██
+  ██
+  the
+  garden
+  ██
+  ███████
+  ██
+  ██
+  ██
+  */
+  .play-page {
   display: grid;
   place-items: center;
   background-position: center;
+  background-image: url(assets/thegarden/the-garden-background-image-ap-portfolio.jpg);
 }
 
 .mydiv {
@@ -740,7 +758,7 @@ a:active {
   display: grid;
   place-items: center;
   min-height: 10vh;
-  max-width: 100%;
+  max-width: 100vh;
 }
 
 /*
