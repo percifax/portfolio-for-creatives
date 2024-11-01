@@ -89,7 +89,8 @@ html {
   --project-title-typeface: "Vollkorn SC", serif;
   --background-color-about: #1f1f1f;
   --background-color-footer: #1f1f1f;
-  --background-color: #161616;
+  --background-color-hero: #161616;
+  --background-color: #1f1f1f;
   --background-color-holding-page: rgba(0, 0, 0, 0.6);
   --h1-color: #ffffff;
   --h2-color: #ffffff;
@@ -122,7 +123,7 @@ html {
 body {
   font-family: var(--body-typeface);
   color: var(--primary-text-color);
-
+  background-color: var(--background-color);
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -752,6 +753,7 @@ a:active {
 .sketchbook-page {
   display: grid;
   place-items: center;
+  background-color: var(--background-color);
 }
 
 .sketchbook-page-inner-container {
