@@ -18,5 +18,8 @@ CHange Index Gif
 Change Header to
 Change Index BG Images
 CHange 404 - Make door bigger and In the Middle
-Change Garden, spotify is at the top extended, Gifs Movable, Sparkling Mouse
 Change About Page to be good looking
+
+Wishlist
+Draggable Divs
+Change Garden, spotify is at the top extended, Gifs Movable, Sparkling Mouse
