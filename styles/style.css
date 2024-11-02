@@ -106,11 +106,11 @@ html {
   --overlay-description-color: #ffffff;
   --hyperlink-color: ##b5d88f;
   --hyperlink-alternate-color: #b5d88f;
-  --hover-color: #111;
+  --hover-color: #068231;
   --visited-color: #b5d88f;
   --project-title-color: #b5d88f;
   --project-sidebar-background-color: #b5d88f;
-  --project-sidebar-text-color: b5d88f;
+  --project-sidebar-text-color: #b5d88f;
   --heart-color: darkred;
   --holding-page-footer-color: #f8f8ff;
   --text-selection-background-color: #b5d88f;
@@ -561,6 +561,10 @@ a:active {
   margin-bottom: 2rem;
 }
 
+.bio {
+  font-size: 1.5rem;
+}
+
 /* Project Page 
 
 ██████  ██████   ██████       ██ ███████  ██████ ████████     ██████   █████   ██████  ███████ 
@@ -698,14 +702,89 @@ a:active {
   max-width: max-content;
   margin: auto;
 }
+/*
 
+
+ ██████   █████  ██████  ██████  ███████ ███    ██ 
+██       ██   ██ ██   ██ ██   ██ ██      ████   ██ 
+██   ███ ███████ ██████  ██   ██ █████   ██ ██  ██ 
+██    ██ ██   ██ ██   ██ ██   ██ ██      ██  ██ ██ 
+ ██████  ██   ██ ██   ██ ██████  ███████ ██   ████ 
+                                                   
+                                                   
+
+               _.---._
+             .'       `.
+             :)       (:
+             \ (@) (@) /
+              \   A   /
+               )     (
+               \"""""/
+                `._.'
+                 .=.
+         .---._.-.=.-._.---.
+        / ':-(_.-: :-._)-:` \
+       / /' (__.-: :-.__) `\ \
+      / /  (___.-` '-.___)  \ \
+     / /   (___.-'^`-.___)   \ \
+    / /    (___.-'=`-.___)    \ \
+   / /     (____.'=`.____)     \ \
+  / /       (___.'=`.___)       \ \
+ (_.;       `---'.=.`---'       ;._)
+ ;||        __  _.=._  __        ||;
+ ;||       (  `.-.=.-.'  )       ||;
+ ;||       \    `.=.'    /       ||;
+ ;||        \    .=.    /        ||;
+ ;||       .-`.`-._.-'.'-.       ||;
+.:::\      ( ,): O O :(, )      /:::.
+|||| `     / /'`--'--'`\ \     ' ||||
+''''      / /           \ \      ''''
+         / /             \ \
+        / /               \ \
+       / /                 \ \
+      / /                   \ \
+     / /                     \ \
+    /.'                       `.\
+   (_)'                       `(_)
+    \\.                       .//
+     \\.                     .//
+      \\.                   .//
+       \\.                 .//
+        \\.               .//
+         \\.             .//
+    jgs   \\.           .//
+          ///)         (\\\
+        ,///'           `\\\,
+       ///'               `\\\
+      ""'                   '""
+
+
+*/
 /*Play Page - The garden*/
 
-.play-page-header {
+.play-page-wrapper {
+  display: flex;
   flex-direction: column;
-  place-items: inherit;
+  border: 10px solid pink;
+  min-height: 100vh;
 }
 
+.play-page-header {
+  display: flex;
+
+  width: 100%;
+  justify-content: space-between;
+  background: lightblue;
+}
+
+.main-garden-area {
+  flex: 1;
+  min-height: 100vh;
+  padding: 5rem;
+}
+
+.play-page-footer {
+}
 .play-page {
   min-height: 100vh;
 
@@ -853,6 +932,7 @@ a:active {
   .global-footer {
     padding: 4rem 4rem 0 4rem;
     grid-template-columns: 1fr 1fr 1fr;
+    min-height: 40vh;
   }
 
   .about-item-1 {
