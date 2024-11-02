@@ -338,11 +338,16 @@ a:active {
 
 .social-item {
   line-height: 1.3;
-  width: 20rem;
+  margin-right: 1rem;
+}
+
+.socials-list {
+  display: flex;
+  flex-direction: row;
 }
 
 .fa-brands {
-  font-size: 5rem;
+  font-size: 2rem;
   color: var(--accent-color);
 }
 .list-item {

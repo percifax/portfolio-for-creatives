@@ -10,8 +10,6 @@ add spotify https://developer.spotify.com/documentation/embeds
 
 Nov 1
 
-Add garden BG Image <img src="assets/thegarden/the-garden-background-image-ap-portfolio.jpg">
-
 Favicon
 Change Logo GIfs
 CHange Index Gif
