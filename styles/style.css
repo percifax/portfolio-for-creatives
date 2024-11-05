@@ -465,7 +465,8 @@ html {
 }
 
 .background-image-crossfade-3 {
-  background: url() no-repeat center/cover fixed;
+  background: url(./../assets/thegarden/the-garden-background-image-ap-portfolio.jpg)
+    no-repeat center/cover fixed;
   z-index: -1;
 }
 
