@@ -531,21 +531,6 @@ html {
   border-radius: 3rem;
 }
 
-h1 {
-  font-family: "Unbounded", sans-serif;
-  margin-bottom: 1rem;
-  font-size: 2rem;
-  line-height: 1.2;
-  text-align: center;
-}
-h2 {
-  font-family: "SUSE", sans-serif;
-  margin-bottom: 1rem;
-  font-size: 1.5rem;
-  line-height: 1.2;
-  text-align: center;
-}
-
 /* end here*/
 
 .work-wrapper {
