@@ -13,10 +13,12 @@ CHange Index Gif [:D]
   Change Index BG Images
   CHange 404 - Make door bigger and In the Middle
   Change About Page to be good looking
+  Add to project pages
+  Add to Sketchbook
 
 Wishlist:
 Draggable Divs
-Change Garden, Gifs Movable,
+Change Garden, xGifs Movable,
 add sparkling mouse https://codepen.io/andrewukkop/pen/QWeaNPG
 movable gifs -
 

@@ -699,6 +699,7 @@ a:active {
   margin-bottom: 1rem;
   justify-content: center;
   width: 50%;
+  height: 100;
   max-width: max-content;
   margin: auto;
 }
