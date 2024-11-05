@@ -8,7 +8,7 @@ Favicon [:D]
 Change Logo GIfs [:D]
 CHange Index Gif [:D]
 
-- Fix images all width 1920px x 1275px
+- Fix images all width 1920px x 1275px [:D]
   Change Header in hero
   Change Index BG Images
   CHange 404 - Make door bigger and In the Middle
