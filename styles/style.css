@@ -431,9 +431,6 @@ a:active {
 
 /*This is for the slideshow on hero*/
 
-@import url("https://fonts.googleapis.com/css2?family=SUSE:wght@100..800&family=Unbounded:wght@900&display=swap");
-
-/* apply a natural box layout model to all elements, but allowing components to change */
 html {
   box-sizing: border-box;
 }
@@ -468,8 +465,7 @@ html {
 }
 
 .background-image-crossfade-3 {
-  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2494056/background-3.jpg")
-    no-repeat center/cover fixed;
+  background: url() no-repeat center/cover fixed;
   z-index: -1;
 }
 
@@ -526,12 +522,12 @@ html {
   color: white;
   padding: 2rem;
   margin: 1rem;
-  border: 10px solid white;
+  border: none;
   background: rgba(0, 0, 0, 0.8275);
   border-radius: 3rem;
 }
 
-/* end here*/
+/* slideshow css ends here*/
 
 .work-wrapper {
   flex: 1;
