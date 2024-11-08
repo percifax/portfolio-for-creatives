@@ -520,6 +520,7 @@ html {
 
 .work-wrapper {
   flex: 1;
+  background: var(--background-color);
 }
 
 /* Padding around work grid and project page */
