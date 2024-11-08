@@ -9,12 +9,14 @@ Change Logo GIfs [:D]
 CHange Index Gif [:D]
 
 - Fix images all width 1920px x 1275px [:D]
-  Change Header in hero
-  Change Index BG Images
-  CHange 404 - Make door bigger and In the Middle
-  Change About Page to be good looking
-  Add to project pages
-  Add to Sketchbook
+
+Nov 8-
+Change Header in hero
+Change Index BG Images
+CHange 404 - Make door bigger and In the Middle
+Change About Page to be good looking
+Add to project pages
+Add to Sketchbook
 
 Wishlist:
 Draggable Divs
@@ -24,3 +26,12 @@ movable gifs -
 
 add spotify https://developer.spotify.com/documentation/embeds
 spotify is at the top extended
+
+Photos to add
+
+Faves from Courier 4-6
+BAckground Images 1-4
+Bananafish Panels 1-6
+Road Back home PDF? Or Images
+Picture frame
+Sketchbook Images
