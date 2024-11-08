@@ -519,7 +519,7 @@ html {
 /* slideshow css ends here*/
 
 .work-wrapper {
-  flex: 1;
+  flex: 2;
   background: var(--background-color);
 }
 
