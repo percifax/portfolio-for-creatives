@@ -808,14 +808,14 @@ html {
 }
 
 .index-background-image-crossfade-2 {
-  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2494056/background-2.jpg")
-    no-repeat center/cover fixed;
+  background: url(./../assets/project-6/nitroglycerin-courier-ap-portfolio.jpg)
+    no-repeat top/cover fixed;
   z-index: -1;
 }
 
 .index-background-image-crossfade-3 {
-  background: url(./../assets/thegarden/the-garden-background-image-ap-portfolio.jpg)
-    no-repeat center/cover fixed;
+  background: url(./../assets/project-6/barbenheimer-courier-ap-portfolio.jpg)
+    no-repeat top/cover fixed;
   z-index: -1;
 }
 
