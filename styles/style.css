@@ -359,14 +359,14 @@ a:active {
                                  
 */
 
-.hero {
-  min-height: 80vh;
+.hero-header {
+  min-height: 15vh;
   display: flex;
   flex-direction: column;
-  background: rgba(0, 0, 0, 0);
-  border: none;
+  border: dotted;
+  border-color: rgb(255, 28, 28);
   width: 100%;
-  padding: 2rem;
+  padding: 3rem;
   align-items: center;
   justify-content: center;
 }
