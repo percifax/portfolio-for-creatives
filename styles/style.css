@@ -8,39 +8,26 @@
 
 */
 
-/* TODO: Delete the Google Fonts below and add the Google Fonts you want to use on your site. Each Google font that you load will slightly increase the download speed of your site so make sure to only included necessary fonts here. */
-
-@import url("https://fonts.googleapis.com/css2?family=Hepta+Slab|Staatliches&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Eczar:wght@400;500;600;700;800&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;900&display=swap");
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
-
-/* my fonts */
 @import url("https://fonts.googleapis.com/css2?family=Vollkorn+SC:wght@400;600;700;900&family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Vollkorn:ital,wght@0,400..900;1,400..900&display=swap");
 
 /*
-
 Imported stylesheets. Remove the ones you do not want to use.
-
 ██ ███    ███ ██████   ██████  ██████  ████████      ██████ ███████ ███████ 
 ██ ████  ████ ██   ██ ██    ██ ██   ██    ██        ██      ██      ██      
 ██ ██ ████ ██ ██████  ██    ██ ██████     ██        ██      ███████ ███████ 
 ██ ██  ██  ██ ██      ██    ██ ██   ██    ██        ██           ██      ██ 
 ██ ██      ██ ██       ██████  ██   ██    ██         ██████ ███████ ███████ 
-
 */
 
 /* TODO: Delete any stylesheets that you do not want to use. */
 
-@import url("make-something-fly.css");
-@import url("animated-gradient.css");
 @import url("text-stroke.css");
 @import url("stroke-shadow.css");
 @import url("experiments.css");
 @import url("style-guide.css");
 @import url("scroll-to-top.css");
-
+@import url("sparklemouse.css");
 /*
 
 X-Small devices (portrait phones, less than 576px) 
@@ -59,7 +46,7 @@ No media query for `xs` since this is the default in Bootstrap
 html {
   box-sizing: border-box;
   scroll-behavior: smooth;
-  cursor: url("../assets/temp/up-cursor.png"), auto !important;
+  cursor: url(""), auto !important;
   /* TODO: Change the url above to add a custom cursor. Delete the line above if you want to use the default browser cursor. */
 }
 
@@ -448,7 +435,8 @@ html {
 
 .background-image-crossfade-1,
 .background-image-crossfade-2,
-.background-image-crossfade-3 {
+.background-image-crossfade-3,
+.background-image-crossfade-4 {
   position: absolute;
   top: 0;
   right: 0;
