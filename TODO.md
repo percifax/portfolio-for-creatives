@@ -13,7 +13,7 @@ Nov 1st - Nov 4th -
 Nov 8-
 
 - Change Header in hero
-  Change Index BG Images
+  Change Index BG Images [:D]
   CHange 404 - Make door bigger and In the Middle
   Change About Page to be good looking
   Add to project pages
@@ -22,7 +22,7 @@ Wishlist:
 Draggable Divs
 Change Garden, xGifs Movable,
 add sparkling mouse https://codepen.io/andrewukkop/pen/QWeaNPG
-movable gifs -
+movable gifs - https://www.w3schools.com/howto/howto_js_draggable.asp
 spotify is at the top extended
 Add to Sketchbook
 

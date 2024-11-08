@@ -802,7 +802,7 @@ html {
 }
 
 .index-background-image-crossfade-1 {
-  background: url("https://s3-us-west-2.amazonaws.com/s.cdpn.io/2494056/background-1.jpg")
+  background: url(./../assets/project-2/phantomoftheparadise-moviescene-ap-portfolio.jpg)
     no-repeat center/cover fixed;
   z-index: -1;
 }
