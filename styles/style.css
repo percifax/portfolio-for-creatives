@@ -952,13 +952,11 @@ html {
 .play-page-wrapper {
   display: flex;
   flex-direction: column;
-  border: 10px solid pink;
   min-height: 100vh;
 }
 
 .play-page-header {
   display: flex;
-
   width: 100%;
   justify-content: space-between;
   background: lightblue;
