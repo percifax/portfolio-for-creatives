@@ -17,6 +17,7 @@ Nov 8-
   CHange 404 - Make door bigger and In the Middle
   Change About Page to be good looking
   Add to project pages
+  make index faster,
 
 Wishlist:
 Draggable Divs
