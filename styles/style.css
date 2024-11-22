@@ -368,8 +368,6 @@ a:active {
   padding-top: 15vh;
   align-items: right;
   justify-content: flex-end;
-  border: dotted;
-  border-color: rgb(255, 28, 28);
 }
 
 .branding-navigation {
@@ -505,17 +503,6 @@ html {
   animation-name: background-image-crossfade-animation;
   animation-iteration-count: infinite;
   animation-duration: 18s;
-}
-
-.content-area {
-  width: 70%;
-  font-size: 2rem;
-  color: white;
-  padding: 2rem;
-  margin: 1rem;
-  border: none;
-  background: rgba(0, 0, 0, 0.8275);
-  border-radius: 3rem;
 }
 
 /* slideshow css ends here*/
@@ -1121,6 +1108,15 @@ canvas {
 
   .hero-headline-wrapper {
     padding: 4rem 8rem;
+    width: 70%;
+    justify-content: center;
+    font-size: 2rem;
+    color: white;
+    padding: 2rem;
+    margin: 1rem;
+    border: none;
+    background: rgba(0, 0, 0, 0.636);
+    border-radius: 3 rem;
   }
 
   .grid {
